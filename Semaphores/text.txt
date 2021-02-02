@@ -1,0 +1,4 @@
+An operating system (OS) is system software that manages computer hardware, software resources, and provides common services. 
+Time-sharing operating systems schedule tasks for efficient use of the system.
+Other specialized classes of operating systems, such as embedded and real-time systems, exist for many applications. 
+Single-user operating systems have no facilities to distinguish users.

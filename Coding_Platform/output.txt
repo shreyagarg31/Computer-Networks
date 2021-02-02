@@ -1,0 +1,4 @@
+code_file.cpp: In function ‘int main()’:
+code_file.cpp:7:5: error: expected ‘;’ before ‘cout’
+     cout<<x+y;
+     ^~~~
